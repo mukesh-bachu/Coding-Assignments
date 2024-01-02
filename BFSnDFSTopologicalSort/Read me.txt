@@ -1,0 +1,16 @@
+1. Open the DFSTopologicalSort.java file in any IDE of your preference.
+2. Once it is opened in the IDE, run the program.
+3. After the execution of the program, system prints the DFS Topological sort result for the graph on Image 1 followed by result for graph in Image 2.
+
+4. Open the BFSTopologicalSort.java file in any IDE of your preference.
+5. Once it is opened in the IDE, run the program.
+6. After the execution of the program, system prints the BFS Topological sort result for the graph on Image 1 followed by result for graph in Image 2.
+
+
+NOTE:
+1. The given graphs are already coded into the program as input.
+2. The program only supports input vertices which are consecutive  integers or alphabets which are consecutive in the ascii table.
+3. intitial_int value should be given as the first integer in the vertices when vertices are consecutive integers.
+4. initiaL_char shld be given when vertices are consecutive characters in ascii table.
+5. For the graph in Image 1, I have given the intial_int val as 1 to convert vertices to 0 to V.
+6. For the graph in Image 2, I have given the intial_char as 'm' to convert node to 0 to V by using their ascii value.

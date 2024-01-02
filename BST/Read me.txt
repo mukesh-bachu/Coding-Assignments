@@ -1,0 +1,5 @@
+1. Open the BST.java file in any IDE of your preference.
+2. Once it is opened in the IDE, run the program.
+3. After the execution of the program, system prints the inorder traversal of BST after the inserting all the given values in the assignment.
+4. Then system will print the inorder traversal of the BST after deleting 40.
+5. And then the system will print inorder traversal of BST after deleting 20.

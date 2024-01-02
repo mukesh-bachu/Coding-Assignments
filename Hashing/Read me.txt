@@ -1,0 +1,13 @@
+1. Open the Hashing.java file in any IDE of your preference.
+2. Once it is opened in the IDE, change below parameters when required:
+	i)   The table size can be changed at line number 6 (tableSize is given as 31 in my execution case)
+	ii)  The path of the input file should be given  at line number 97
+	iii) Execute the program.
+3. After the execution of the program, system prints the number of collisions.
+
+
+ASSUMPTIONS:
+1. The words will be of letters a-zA-Z and the space character.
+2. The length of the words will be in between 3 and 8 (maximum length 8 and minimum length 3).
+3. The program doesn't print the table since it is not asked in the assignment.
+4. The code at line 108 can be uncommented if the user needs the system to print the table.

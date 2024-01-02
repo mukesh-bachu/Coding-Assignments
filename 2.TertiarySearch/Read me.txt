@@ -1,0 +1,10 @@
+1. Open the TertiarySearch.java file in any IDE of your preference.
+2. Once it is opened in the IDE, run the program.
+
+NOTE: (I already defined a sorted array in the program.  ar[] = { 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 };
+If the values needs to be changed, kindly change values as per the sorted order manually.)
+
+3. After the execution of the program, the system prompts "Enter the value you want to search:  "
+4. Kindly, give the value you want to search.
+5. Once the input is given, if the value is present in the array, system prints the index of the value given by user.
+6. If the input value is not present in the array, system will print -1.

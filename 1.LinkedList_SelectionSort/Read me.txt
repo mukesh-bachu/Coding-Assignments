@@ -1,0 +1,8 @@
+1. Open the LinkedList.java file in any IDE of your preference.
+2. Once it is opened in the IDE, run the program.
+3. After the execution of the program, the system prompts "Enter the required number of nodes in the list: "
+4. Kindly, give the number of required nodes.
+
+NOTE: (I used random function to get values to create a list with number of nodes as given input)
+
+5. Once the input for the number of nodes is given, system prints the list before and after sorting.

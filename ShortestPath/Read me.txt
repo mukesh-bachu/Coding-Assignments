@@ -1,0 +1,9 @@
+1. Open the ShortestPathTree.java file in any IDE of your preference.
+2. Once it is opened in the IDE, run the program.
+3. After the execution of the program, system prints the vertices followed by the edges(pair of vertices) in the actual graph.
+4. Then the system prints the source, vertex and the minimum distance of the vertex from the source.
+5. And then system prints the edges that make up the shortest path tree.
+
+NOTE:
+1. The input graph has 10 vertices.
+2. The vertex 0 is considered as source in the program.
